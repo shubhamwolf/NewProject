@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+	printf("\n hello");
+	printf("\n hello bhai");
+printf("\n hello bhai bhai");
+printf("\n hello bhai bhai bhai");
+}
